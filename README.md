@@ -1,9 +1,37 @@
-- 👋 Hi, I’m Nagi
-- 👀 I’m interested in anime and video games
-- 🌱 I’m currently learning cybersecurity and multiple languages
-- 💞️ I’m looking to collaborate on multiple projects involving cybersecurity
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: I truly love pokemon and genshin
+ᕙ(  •̀ ᗜ •́  )ᕗ Hello! My name is Nagi and its nice to meet everyone.ೃ࿐
+
+
+I am here to create many projects and honing my programming and cybersecurity skills ( ˵ • ᴗ • ˵)
+I learned multiple programming languages such as:
+
+
+ೃ⁀➷ Python
+
+
+ೃ⁀➷ C / C++
+
+
+ೃ⁀➷ Java
+
+
+ೃ⁀➷ HTML 
+
+
+Along with this I have a good understanding on operating:
+
+
+·˚ ༘₊· ͟͟͞͞꒰➳ Linux 
+
+
+·˚ ༘₊· ͟͟͞͞꒰➳ Virtual Machines
+
+
+₍ ᐢ.ˬ.ᐢ₎˚୨୧ But in my other spare time I love to watch anime, manga, paint/draw, and play video games༊*·˚
+
+
+But I am a huge fan of pokemon and genshin ⸜(｡˃ ᵕ ˂ )⸝♡
+
+˚ ༘♡ ⋆｡˚Thank you very much for reading!
 
 <!---
 Nagi6055/Nagi6055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
