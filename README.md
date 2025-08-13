@@ -14,7 +14,7 @@ I learned multiple programming languages such as:
 ೃ⁀➷ Java
 
 
-ೃ⁀➷ HTML 
+ೃ⁀➷ HTML / CSS
 
 
 Along with this I have a good understanding on operating:
