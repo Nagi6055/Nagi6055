@@ -9,7 +9,9 @@ I have a huge passion for ethical hacking, cryptography, and forensics.
 ## 💼 Skills
 
 ೃ⁀➷  **Languages:** Python, C/C++, Java, and HTML / CSS.
+
 ೃ⁀➷  **Tools & Frameworks:** Wireshark, Splunk, Linux, VirtualBox, Visual Studio.
+
 ೃ⁀➷  **Areas of Focus:** Penetration Testing and Incident Response
 
 
