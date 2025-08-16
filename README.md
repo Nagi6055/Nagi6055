@@ -20,7 +20,8 @@ I have a huge passion for ethical hacking, cryptography, and forensics.
 Here are a few things I’ve built or am working on:
 
 - 📁 [Password Projects](https://github.com/Nagi6055/Projects/tree/main/Password%20Projects)
-
+- 📁 [Keylogger Projects](https://github.com/Nagi6055/Projects/tree/main/KeyLogger%20Project) (still under editing)
+  
 ---
 
 ₍ ᐢ.ˬ.ᐢ₎˚୨୧ But in my other spare time I love to watch anime, manga, paint/draw, and play video games༊*·˚
