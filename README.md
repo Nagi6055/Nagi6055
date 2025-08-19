@@ -1,7 +1,7 @@
 ᕙ(  •̀ ᗜ •́  )ᕗ Hello! I go by the alias name Nagi and its nice to meet everyone.ೃ࿐
 
 
-Welcome to my GitHub profile! I'm a cybersecurity enthusiastand learner here to create many projects and honing my programming and cybersecurity skills.    ( ˵ • ᴗ • ˵)
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast and learner here to create many projects and honing my programming and cybersecurity skills.    ( ˵ • ᴗ • ˵)
 I have a huge passion for ethical hacking, cryptography, and forensics.
 
 ---
