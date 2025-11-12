@@ -25,7 +25,7 @@ Here are a few things I’ve built or am working on:
 
 ## 📖 Studies
 
-Here are a few things I’ve been studying for certifications:
+Here are a few things I’ve been studying for:
 
 - 📁 [Certified in Cybersecurity](https://github.com/Nagi6055/CC-Studies)
   
