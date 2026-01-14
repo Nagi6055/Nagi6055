@@ -26,7 +26,7 @@ Under Construction...
 Here are a few things I’ve been studying for:
 
 - 📁 [Certified in Cybersecurity]
-- 📁 [CompTIA Security +]
+- 📁 [CompTIA Security +](https://github.com/Nagi6055/Security-Study-Guide)
 - 📁 [CompTIA CySa +]
   
 ---
