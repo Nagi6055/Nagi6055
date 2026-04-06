@@ -19,11 +19,11 @@ I have a huge passion for ethical hacking, cryptography, and forensics.
 
 Here are a few things I’ve built or am working on:
 
-###⚠️ Vulnerability Management Project
+### ⚠️ Vulnerability Management Project
 - **[Vulnerability Management Implementation Program](https://github.com/Nagi6055/Vulnerability-Management-Program-Implementation)**
 - **[Vulnerability Management Remediation Program (BASH and Powershell)]**
 
-###🚨Security Operation and Incident Response Projects
+### 🚨Security Operation and Incident Response Projects
 
 ## 📖 Studies
 
