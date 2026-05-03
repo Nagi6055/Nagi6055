@@ -28,7 +28,7 @@ Here are a few things I’ve been studying for:
 - 📁 [CompTIA CySa +]
 
 
-- 📁 [Python Learning](https://github.com/Nagi6055/Python-Adventures)
+- 📁 [Python](https://github.com/Nagi6055/Python-Adventures)
 ---
 
 ₍ ᐢ.ˬ.ᐢ₎˚୨୧ But in my other spare time I love to watch anime, manga, paint/draw, and play video games༊*·˚
