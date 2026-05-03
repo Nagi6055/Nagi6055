@@ -26,7 +26,9 @@ Here are a few things I’ve been studying for:
 - 📁 [Certified in Cybersecurity]
 - 📁 [CompTIA Security +](https://github.com/Nagi6055/Security-Study-Guide)
 - 📁 [CompTIA CySa +]
-  
+
+
+- 📁 [Python Learning](https://github.com/Nagi6055/Python-Adventures)
 ---
 
 ₍ ᐢ.ˬ.ᐢ₎˚୨୧ But in my other spare time I love to watch anime, manga, paint/draw, and play video games༊*·˚
